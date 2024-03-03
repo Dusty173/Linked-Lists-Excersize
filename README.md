@@ -1,0 +1,1 @@
+Excersize for getting familiar with Linked Lists and Doubly Linked Lists logic.
